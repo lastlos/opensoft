@@ -1,2 +1,2 @@
-# opensoft
+# opensoftr
 site of official opensoftr
