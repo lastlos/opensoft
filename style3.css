@@ -22,7 +22,8 @@ a {
 h1 {
     color: #DDE6ED;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font: 75px;
+    font: 1.3rem;
+    font-size: 75px;
     text-align: center;
     margin-top: 15px;
     text-shadow: 0 0 5px #C8C8C8;
