@@ -22,7 +22,7 @@ a {
 h1 {
     color: #DDE6ED;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font: 3rem;
+    font: 4.6rem;
     text-align: center;
     margin-top: 15px;
     text-shadow: 0 0 5px #C8C8C8;
@@ -33,7 +33,7 @@ h1 {
 p {
     color: whitesmoke;
     font-family: monospace;
-    font-size: 2vw;
+    font-size: 1.3rem;
     width:1000px;margin:0 50%;position:relative;left:-500px;
     text-align: left;
     text-size-adjust: auto;
