@@ -16,6 +16,7 @@ body {
     max-width: 100%;
 }
 .center h3 {
+    width: 150ch;
     text-shadow: 0 0 5px #C8C8C8;
     color: white;
     font: 1.3rem Inconsolata, monospace;
