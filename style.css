@@ -103,6 +103,7 @@ button:active {
   height: 4vw;
   width:10vw;margin:0 50%;position:relative;left:-5vw;
   text-align: center;
+  font-size: 0.75vw;
   border: none;
   font-family: monospace;
   color: rgb(255, 255, 255);
