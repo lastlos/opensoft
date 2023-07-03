@@ -15,17 +15,19 @@ a {
   color: white;
   font: 1.3rem Inconsolata, monospace;
   text-shadow: 0 0 5px #C8C8C8;
-  font-size: 1vw;
+  text-size-adjust: auto;
+  max-width: 100%;
 }
 
 h1 {
     color: #DDE6ED;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font: 1.3rem;
-    font-size: 75px;
+    font: 3rem;
     text-align: center;
     margin-top: 15px;
     text-shadow: 0 0 5px #C8C8C8;
+    text-size-adjust: auto;
+    max-width: 100%;
 }
 
 p {
@@ -34,4 +36,6 @@ p {
     font-size: 2vw;
     width:1000px;margin:0 50%;position:relative;left:-500px;
     text-align: left;
+    text-size-adjust: auto;
+    max-width: 100%;
 }
