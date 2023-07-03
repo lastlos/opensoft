@@ -12,7 +12,8 @@ body {
     text-align: center;
     margin-top: 15px;
     text-shadow: 0 0 5px #C8C8C8;
-    font-size: 5vw;
+    text-size-adjust: auto;
+    max-width: 100%;
 }
 .center h3 {
     width: 130ch;
@@ -25,7 +26,8 @@ body {
     border-right: 3px solid;
     text-align: center;
     margin-top: 50px;
-    font-size: 1vw;
+    text-size-adjust: auto;
+    max-width: 100%;
 }
 
 @keyframes typing {
@@ -53,7 +55,8 @@ a {
   color: white;
   font: 1.3rem Inconsolata, monospace;
   text-shadow: 0 0 5px #C8C8C8;
-  font-size: 1vw;
+  text-size-adjust: auto;
+  max-width: 100%;
 }
 
 h2{
@@ -64,7 +67,8 @@ h2{
     margin-top: 10px;
     margin-left: 10px;
     text-shadow: 0 0 5px #C8C8C8;
-    font-size: 1vw;
+    text-size-adjust: auto;
+    max-width: 100%;
 }
 
 p {
@@ -75,7 +79,8 @@ p {
   margin-top: 10px;
   margin-left: 10px;
   text-shadow: 0 0 5px #C8C8C8;
-  font-size: 0.75vw;
+  text-size-adjust: auto;
+  max-width: 100%;
 }
 
 button {
