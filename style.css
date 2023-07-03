@@ -87,6 +87,7 @@ button {
   color: white;
   background-color: darkgreen;
   margin-bottom: 25px;
+  font-size: 0.75vw;
 }
 button:hover {
   height: 4vw;
@@ -97,6 +98,7 @@ button:hover {
   color: rgb(255, 255, 255);
   background-color: green;
   margin-bottom: 25px;
+  font-size: 0.75vw;
 } 
 
 button:active {
