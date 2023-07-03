@@ -1,0 +1,111 @@
+body {
+  background-color: black;
+  background-image: radial-gradient(
+    rgba(0, 150, 0, 0.75), black 120%
+  );
+  height: 100vh;
+}
+.center h1 {
+    color: white;
+    font: 1.3rem Inconsolata, monospace;
+    font-size: 75px;
+    text-align: center;
+    margin-top: 15px;
+    text-shadow: 0 0 5px #C8C8C8;
+    font-size: 5vw;
+}
+.center h3 {
+    width: 130ch;
+    text-shadow: 0 0 5px #C8C8C8;
+    color: white;
+    font: 1.3rem Inconsolata, monospace;
+    animation: typing 2s steps(22), blink .5s step-end infinite alternate;
+    white-space: nowrap;
+    overflow: hidden;
+    border-right: 3px solid;
+    text-align: center;
+    margin-top: 50px;
+    font-size: 1vw;
+}
+
+@keyframes typing {
+  from {
+    width: 0
+  }
+}
+    
+@keyframes blink {
+  50% {
+    border-color: transparent
+  }
+}
+
+.navbar ul{
+    float: right;
+    margin-left: 10px;
+}
+    .navbar ul li{
+        list-style: none;
+        display: inline-block;
+        margin: 0 8px;
+    }
+a {
+  color: white;
+  font: 1.3rem Inconsolata, monospace;
+  text-shadow: 0 0 5px #C8C8C8;
+  font-size: 1vw;
+}
+
+h2{
+    width: 150ch;
+    color: white;
+    font: 1.3rem Inconsolata, monospace;
+    text-align: justify-all;
+    margin-top: 10px;
+    margin-left: 10px;
+    text-shadow: 0 0 5px #C8C8C8;
+    font-size: 1vw;
+}
+
+p {
+  width: 150ch;
+  color: white;
+  font: 1.3rem Inconsolata, monospace;
+  text-align: justify-all;
+  margin-top: 10px;
+  margin-left: 10px;
+  text-shadow: 0 0 5px #C8C8C8;
+  font-size: 0.75vw;
+}
+
+button {
+  height: 75px;
+  width:300px;margin:0 50%;position:relative;left:-150px;
+  text-align: center;
+  border: none;
+  font-family: monospace;
+  color: white;
+  background-color: darkgreen;
+  margin-bottom: 25px;
+}
+button:hover {
+  height: 75px;
+  width:300px;margin:0 50%;position:relative;left:-150px;
+  text-align: center;
+  border: none;
+  font-family: monospace;
+  color: rgb(255, 255, 255);
+  background-color: green;
+  margin-bottom: 25px;
+} 
+
+button:active {
+  height: 75px;
+  width:300px;margin:0 50%;position:relative;left:-150px;
+  text-align: center;
+  border: none;
+  font-family: monospace;
+  color: rgb(255, 255, 255);
+  background-color: green;
+  margin-bottom: 10px;
+} 

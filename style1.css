@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(26, 26, 26);
+}
+
+.form {
+    height: 75px;
+    width:300px;margin:0 50%;position:relative;left:-150px;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-size: 25px;
+}
+
+input {width: 200px; height: 25px;}
+
+input[id="3"] {width: 500px; height: 25px;}
+
+input[id="4"] {width: 500px; height: 25px;}
+
+button {width: 500px; height: 250px; margin-top: 25px; margin-bottom: 25px;}
+
+
+select {width: 200px; height: 25px;}
+
+textarea {width: 500px; height: 200px; padding: 1px}
