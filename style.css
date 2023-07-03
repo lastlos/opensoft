@@ -80,7 +80,7 @@ p {
 
 button {
   height: 75px;
-  width:300px;margin:0 50%;position:relative;left:-150px;
+  width:10vw;margin:0 50%;position:relative;left:-5vw;
   text-align: center;
   border: none;
   font-family: monospace;
@@ -90,7 +90,7 @@ button {
 }
 button:hover {
   height: 75px;
-  width:300px;margin:0 50%;position:relative;left:-150px;
+  width:10vw;margin:0 50%;position:relative;left:-5vw;
   text-align: center;
   border: none;
   font-family: monospace;
@@ -101,7 +101,7 @@ button:hover {
 
 button:active {
   height: 75px;
-  width:300px;margin:0 50%;position:relative;left:-150px;
+  width:10vw;margin:0 50%;position:relative;left:-5vw;
   text-align: center;
   border: none;
   font-family: monospace;
