@@ -32,6 +32,7 @@ h1 {
 }
 
 p {
+    text-align:justify-all;
     color: whitesmoke;
     font-family: monospace;
     font-size: 1.3rem;
