@@ -45,6 +45,7 @@ h2, h3, h4 {
 
 p {
     color: whitesmoke;
+    text-align:justify-all;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 1.3rem;
     width:800px;margin:0 50%;position:relative;left:-400px;
